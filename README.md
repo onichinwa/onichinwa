@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Screenshot_20-11-2026_212040_ph.pinterest.com.jpeg" width="100%" />
+</p>
 <div align="center">
 
 # Hi, I'm Cynthia! ♡
