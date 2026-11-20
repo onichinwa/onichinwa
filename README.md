@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# Hi, I'm Cynthia!
+# Bonjour, I'm Cynthia.
 
 BSIT Student
 
